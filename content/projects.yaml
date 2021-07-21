@@ -1,33 +1,23 @@
 - name: 4-TIPS
   url: https://devpost.com/software/4tips
-  description: A web platform that uses Google's AutoML Object Detection to determine your Type-4 hair .
-  status: In Progress
+  description: A web platform that uses Google's AutoML Object Detection to determine your Type-4 hair.
+  status: live
   tags:
     - Google AutoML
-    - React
-    - Express.js
-    - MongoDb
+    - React.js
+    - Strapi
   icon: github
   image: images/4-TIPS-logo.png
 
 - name: Stocki
   url: https://github.com/CarltonOsinde/Stocki
-  description: An autonomous Trading Bot that analyzes my stocks and based on a strategy buys or sells on my trading account!
-  status: live
+  description: Currently developing an autonomous Trading Bot that analyzes stocks of my choice and based on a strategy buys or sells on a trading account.
+  status: In Progress
   tags:
     - Python
-    - WealthSimple API
+    - Yahoo Finance API
     - Google Cloud Platform
   icon: github
   image: images/Stocki.png
-
-- name: Sports-Betting App
-  url: https://github.com/CarltonOsinde/Sports-Betting-App-Python
-  description: Utilized the Rundown API to mimic a betting app.
-  status: live
-  tags:
-    - Python
-    - Rundown API
-  icon: github
 
 

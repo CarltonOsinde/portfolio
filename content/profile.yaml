@@ -2,20 +2,20 @@
   initials: CO
   name: Carlton Osinde
   email: carltonosinde@gmail.com
-  profession: Software Engineer
+  profession: Jr. Software Engineer
   image: images/e-profile.jpg
   location: Toronto, CA
   relocation: true
-  company: York University
+  company: TD Securities
   for_hire: true
-  focus: Back-End Engineering
+  focus: Software Engineering
   focus_url: https://www.carltonosinde.com
   about: |
-        With core foundations in Object Oriented Programming, Data Structures and Algorithms. I look to combine my analytical mind and programming knowledge to creatively solve and analyze problems using data, in order to help organizations make smarter business decisions.
+        Welcome to my Portfolio! My name is Carlton Osinde a Jr. Software Engineer currently working as a Data Analyst within TD Securities. I have a passion for technology and look to combine my analytical mind and programming knowledge to creatively solve and analyze problems using to create unique but simple slutions to organizational problems.
 
   skills:
     - Python
-    - JavaScript
+    - Java
     - SQL
   tools:
     - Git

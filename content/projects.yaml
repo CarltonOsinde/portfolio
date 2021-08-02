@@ -1,17 +1,3 @@
-- name: Weather App
-  url: https://github.com/CarltonOsinde/WeatherAPP
-  description: A simple weather app that leverages OpenWeather API to showcase the most up to date weather information in a select city.
-  status: live
-  tags:
-    - HTML
-    - Bulma
-    - Flask
-    - OpenWeather API
-    - SQLite
-  icon: github
-  image: images/WeatherApp.jpg
-
-
 - name: 4-TIPS
   url: https://devpost.com/software/4tips
   description: A web platform that uses Google's AutoML Object Detection to determine your Type-4 hair.
